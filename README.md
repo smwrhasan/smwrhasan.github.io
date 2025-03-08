@@ -1,1 +1,1 @@
-# <a href="smwrhasan.github.io" target: _new>view site </a>
+# <a href="https://smwrhasan.github.io/">view site </a>
